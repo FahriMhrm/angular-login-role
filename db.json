@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "password": "hello",
+      "name": "Admin",
+      "email": "helloadmin@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "test1",
+      "name": "Admin",
+      "password": "hello",
+      "email": "helloadmin@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "test2",
+      "name": "Admin",
+      "password": "hello",
+      "email": "helloadmin@gmail.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": true
+    },
+    {
+      "id": "test3",
+      "password": "hello",
+      "name": "Admin",
+      "email": "helloadmin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "test4",
+      "password": "hello",
+      "name": "Admin",
+      "email": "helloadmin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "test5",
+      "password": "hello",
+      "name": "Admin",
+      "email": "helloadmin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "fahri",
+      "name": "fahri",
+      "password": "Malamhari21!",
+      "email": "fmfm@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}

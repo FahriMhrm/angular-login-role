@@ -1,0 +1,23 @@
+mat-card {
+  margin: 20px;
+  box-shadow: -6px 11px 12px -8px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -6px 11px 12px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -6px 11px 12px -8px rgba(0, 0, 0, 0.75);
+}
+mat-form-field {
+  width: 350px;
+  display: block;
+}
+
+button {
+  width: 165px;
+  margin-right: 20px;
+}
+
+a {
+  width: 165px;
+}
+
+h1 {
+  color: #f5f5f5;
+}

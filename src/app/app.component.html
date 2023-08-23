@@ -1,0 +1,9 @@
+<ul>
+  <li><a class="active" routerLink="">Home</a></li>
+  <li *ngIf="isadminuser"><a routerLink="/user">User List</a></li>
+  <li><a routerLink="/login">Logout</a></li>
+</ul>
+
+<div class="content" role="main">
+  <router-outlet></router-outlet>
+</div>
